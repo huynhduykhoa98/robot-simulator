@@ -1,0 +1,25 @@
+.vs/
+
+# Build files
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.vsp
+*.vspx
+*.vssscc
+*.vspscc
+
+# Visual Studio Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Test Results
+TestResults/
+
+# Environment Files
+.env
