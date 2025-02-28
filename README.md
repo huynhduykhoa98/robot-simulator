@@ -26,6 +26,7 @@ cd RobotSimulator
 ### **2. Build the Project**
 
 ```sh
+dotnet restore
 dotnet build
 ```
 
@@ -113,7 +114,7 @@ dotnet test
 │   ├── CommandProcessorTests.cs
 │   ├── TableTopTests.cs
 │   └── RobotSimulator.Tests.csproj
-│── cs│hou── README.md
+│── README.md
 ```
 
 ---
